@@ -1,1 +1,2 @@
-# Project_3
+Ethereum Data: Kaggle.com
+Bitcoin Data: 
